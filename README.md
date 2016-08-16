@@ -12,3 +12,6 @@ Commit the changes
 ## Step 4 
 Add a file and repeat Steps 2 and 4
 
+## Step 5
+Sync
+
